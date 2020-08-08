@@ -2,7 +2,7 @@
 var1 = 1 #variavel inteira
 var2 = 1.1 #variavel float
 var3 = "Eu sou uma string" #variável string
-var4 = True #variavel boleana, True-False
+var4 = True #variavel boleana, True-False.
 var5 = False
 
 
